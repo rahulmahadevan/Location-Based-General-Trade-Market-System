@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/loginActivity">
+
+    <activity
+        android:id="@+id/loginActivity"
+        android:name="com.example.miniproject.LoginActivity"
+        android:label="login_activity"
+        tools:layout="@layout/login_activity" />
+    <activity
+        android:id="@+id/signupActivity"
+        android:name="com.example.miniproject.SignupActivity"
+        android:label="signup_activity"
+        tools:layout="@layout/signup_activity" />
+
+</navigation>
