@@ -1,4 +1,4 @@
-# Android-Location-Based-Trade-System
+# Location-Based-General-Trade-Market-System
 
 Location based Trade/E-commerce System is a project which aims in developing a client-server based Mobile and Web application for Customers and Local Traders to do business or trade. 
 
