@@ -2,7 +2,7 @@
 
 Location based Trade/E-commerce System is a project which aims in developing a client-server based Mobile and Web application for Customers and Local Traders to do business or trade. 
 
-The project aims to support General Trade market to provide better connectivity with customers nearby. This project is aimed to solve problems in most e-commerce systems such as, it takes at least 24 hours to get a product delivered to a customer, there is no guarantee that the delivered product is the same as the product ordered.
+The project aims to support General Trade market to provide better connectivity with customers nearby. This project is aimed to solve problems in most e-commerce systems, such as, it takes at least 24 hours to get a product delivered to a customer, there is no guarantee that the delivered product is the same as the product ordered.
 
 It is most efficient when product is received by customer instantly, the customer can examine the product before buying and the customer can buy the product from trusted stores in his/her locality while always having a scope to exchange and return instantly. This project has many features which makes all functionalities available to users in a user-friendly manner.
 
